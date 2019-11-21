@@ -20,7 +20,7 @@ _Files to look at:_
 * [ReportFactory.cs](./CS/BlazorReporting/Server/ReportFactory.cs)
 * [Startup.cs](./CS/BlazorReporting/Server/Startup.cs)
 
-## Solution's Client part
+## Solution's Client Part
 
 Defines the UI for the Document Viewer and Report Designer and implements the logic to respond to UI updates. 
 
