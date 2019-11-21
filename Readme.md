@@ -4,7 +4,7 @@ This example demonstrates how to integrate the [HTML5 Document Viewer](https://d
 
 The solution is based on the client-server model and includes the **BlazorReporting.Client** and **BlazorReporting.Server** parts.
 
-## Server Side
+## Solution's Server Part
 
 An ASP.NET Core application that processes requests from the Document Viewer and Report Designer and provides a report storage. 
 
@@ -20,7 +20,7 @@ _Files to look at:_
 * [ReportFactory.cs](./CS/BlazorReporting/Server/ReportFactory.cs)
 * [Startup.cs](./CS/BlazorReporting/Server/Startup.cs)
 
-## Client Side
+## Solution's Client part
 
 Defines the UI for the Document Viewer and Report Designer and implements the logic to respond to UI updates. 
 
