@@ -4,6 +4,9 @@ This example demonstrates how to integrate the [HTML5 Document Viewer](https://d
 
 The solution is based on the client-server model and includes the **BlazorReporting.Client** and **BlazorReporting.Server** parts.
 
+**Note:** DevExpress Blazor components are now free-of-charge, but you need a corresponding [DevExpress subscription](https://www.devexpress.com/buy/net/) to use the Reporting tools.
+
+
 ## Solution's Server Part
 
 An ASP.NET Core application that processes requests from the Document Viewer and Report Designer and provides a report storage. 
