@@ -11,9 +11,9 @@
     "dependencies": {
         "webpack": "^4.40.2",
         "webpack-cli": "^3.3.9",
-        "devexpress-reporting": "~19.2.3",
-        "@devexpress/analytics-core": "~19.2.3",
-        "devextreme": "~19.2.3"
+        "devexpress-reporting": "20.1.8",
+        "@devexpress/analytics-core": "20.1.8",
+        "devextreme": "20.1.8"
     },
     "devDependencies": {
         "@babel/core": "^7.6.0",
