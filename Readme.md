@@ -14,7 +14,7 @@ The solution is based on the client-server model and includes the **BlazorReport
 
 Before you run the project, upgrade it to the DevExpress version you are currently using. Do the following:
 
-1. Update the **DevExpress.AspNetCore.Reporting** npm package referenced in the **BlazorReporting.Server** project to the newer version.
+1. Update the **DevExpress.AspNetCore.Reporting** NuGet package referenced in the **BlazorReporting.Server** project to the newer version.
 2.  Open the `package.json` file in the **BlazorReporting.Client** project and change all DevExpress script versions to the version that you are using in the server part. For instance, if you are using v20.1.8, you should modify the package.json file as follows:
 
     ```
