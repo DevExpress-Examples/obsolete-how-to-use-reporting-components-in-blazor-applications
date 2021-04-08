@@ -4,7 +4,7 @@
 
 ## Overview
 
-This example demonstrates how to integrate the [Document Viewer](https://docs.devexpress.com/XtraReports/400248) and [End-User Report Designer](https://docs.devexpress.com/XtraReports/400249) into a Blazor application.
+This example demonstrates how to integrate the [Document Viewer](https://docs.devexpress.com/XtraReports/400248) and [End-User Report Designer](https://docs.devexpress.com/XtraReports/400249) into a **Blazor WASM ASP.NET Core Hosted** application.
 
 The solution is based on the client-server model and includes the **BlazorReporting.Client** and **BlazorReporting.Server** parts.
 
